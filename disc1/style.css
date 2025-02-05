@@ -1,0 +1,14 @@
+#main-content,
+#error-content {
+    visibility: hidden;
+}
+
+#error-message {
+    color: red;
+}
+
+#main-content img {
+    width: 300px; /* Adjust this value as needed */
+    height: auto;  /* Keeps aspect ratio */
+    display: block; /* Prevents extra spacing */
+}
